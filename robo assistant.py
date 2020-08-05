@@ -331,7 +331,8 @@ if __name__ == "__main__":
             i can open any website,
             i can search the thing on wikipedia,
             i can change my voice from male to female and vice-versa
-            And yes one more thing, My boss is working on this system to add more features...,
+            And yes one more thing, My boss is working on this system to add more features
+            i hope you like me ...,
             tell me what can i do for you??
             '''
             print(features)
@@ -365,7 +366,7 @@ if __name__ == "__main__":
 
 #exit function
 
-        elif ('i am done' in query or 'bye bye jarvis' in query
-              or 'go offline jarvis' in query or 'bye' in query
+        elif ('i am done' in query or 'bye bye robo' in query
+              or 'go offline robo' in query or 'bye' in query
               or 'nothing' in query):
             wishme_end()
